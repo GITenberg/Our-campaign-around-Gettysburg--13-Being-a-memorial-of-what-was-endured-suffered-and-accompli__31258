@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35104'
     url: http://www.gutenberg.org/2009/agents/35104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31258#Our-campaign-around-Gettysburg--13-Being-a-memorial-of-what-was-endured-suffered-and-accompli_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-02-12'
 gutenberg_type: Text
